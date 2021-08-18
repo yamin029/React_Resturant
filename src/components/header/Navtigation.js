@@ -5,9 +5,7 @@ const Navtigation = () => {
     return (
         <div>
             <Navbar dark color="dark">
-                <div className="container">
                 <NavbarBrand>Byte Me!</NavbarBrand>
-                </div>
             </Navbar>
         </div>
     )

@@ -2,7 +2,7 @@ const DISHES = [
    {
        id : 0,
        name : "Ginger Burger",
-       image : "assets/images/chola.jpg",
+       image : "assets/images/samosa.jpg",
        category : "Meal",
        label : "Hot",
        Price : "199",
@@ -49,7 +49,7 @@ const DISHES = [
    {
     id : 1,
     name : "Garlic Burger",
-    image : "assets/images/chola.jpg",
+    image : "assets/images/maggi.jpg",
     category : "Meal",
     label : "Hot",
     Price : "199",
@@ -96,7 +96,7 @@ const DISHES = [
 {
     id : 2,
     name : "Chess Burger",
-    image : "assets/images/chola.jpg",
+    image : "assets/images/momo.jpg",
     category : "Meal",
     label : "Hot",
     Price : "199",
@@ -143,7 +143,7 @@ const DISHES = [
 {
     id : 3,
     name : "BBQ Burger",
-    image : "assets/images/chola.jpg",
+    image : "assets/images/corn.jpg",
     category : "Meal",
     label : "Hot",
     Price : "199",
